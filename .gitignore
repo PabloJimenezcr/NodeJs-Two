@@ -1,0 +1,3 @@
+# Esto sirve para ignorar alguna carpeta y que no se suba 
+
+node_modules
